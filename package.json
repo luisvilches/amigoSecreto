@@ -1,0 +1,23 @@
+{
+  "name": "amigoSecreto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "larvitsmpp": "^0.3.1",
+    "nexmo": "^2.0.2",
+    "node-fetch": "^1.7.3",
+    "notifme-sdk": "^1.6.0",
+    "querystring": "^0.2.0",
+    "request": "^2.83.0",
+    "textbelt": "0.0.3",
+    "textmagic-rest-client": "^1.0.9",
+    "twilio": "^3.10.0"
+  }
+}

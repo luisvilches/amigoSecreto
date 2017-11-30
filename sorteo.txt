@@ -1,0 +1,27 @@
+Lista de Amigo secreto 2017 
+
+Patricia y Luis => Alfonso Villalobos
+Alfonso Villalobos => Araceli y Juan
+Araceli y Juan => Susy y Emilio
+Susy y Emilio => Elias Vilches
+Elias Vilches => Marjorie y Roberto
+Marjorie y Roberto => Miguel Abarca Medina
+Miguel Abarca Medina => Yessenia Muñoz
+Yessenia Muñoz => Patricio Muñoz
+Patricio Muñoz => Marisol y Nano
+Marisol y Nano => Carmen Garrido
+Carmen Garrido => Luis Sura
+Luis Sura => Lita
+Lita => Gloria e Ivan
+Gloria e Ivan => Jessica y Andres
+Jessica y Andres => Maria Garrido
+Maria Garrido => Emilia Sura
+Emilia Sura => Jorge Villabos
+Jorge Villabos => Claudia y Nano
+Claudia y Nano => Daniel Abarca
+Daniel Abarca => Manuel Garrido
+Manuel Garrido => Constanza Vilches
+Constanza Vilches => Irma Lagos
+Irma Lagos => Marianela y Luis
+Marianela y Luis => Stefy Villalobos
+Stefy Villalobos => Patricia y Luis
