@@ -1,8 +1,6 @@
 function message(user,friends){
     return `Amigo secreto Familiar 2017!!
-Estimado(a) ${user} su amigo secreto es: ${friends}.
-
-No importa lo pobre que sea un hombre. Si tiene familia, es rico.-Dan Wilcox.`;
+Estimado(a) ${user} su amigo secreto es: ${friends}.`;
 }
 
 

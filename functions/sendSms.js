@@ -22,3 +22,6 @@ function sendSms(user,friends,phone){
 
 
 module.exports = sendSms;
+
+
+//curl https://textbelt.com/quota/5fe7344ef89d17ce7fa0a0434695080cf70e17b7sLVbrzb6HhPt5WOfFKJvVh18m

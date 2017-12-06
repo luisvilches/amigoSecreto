@@ -12,12 +12,14 @@ const amigoSecreto = (items) => {
         res.push({
             src: encapsulateditems[i].name,
             num: encapsulateditems[i].num,
+            mail: encapsulateditems[i].mail,
             dst: encapsulateditems[i + 1].name
         });
     }
     res.push({
         src: encapsulateditems[encapsulateditems.length - 1].name,
         num: encapsulateditems[encapsulateditems.length - 1].num,
+        mail: encapsulateditems[encapsulateditems.length - 1].mail,
         dst: encapsulateditems[0].name
     });
     
